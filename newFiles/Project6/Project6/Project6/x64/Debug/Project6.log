@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+H:\ОАП\Project6\Project6\FileName.cpp(87,25): error C2065: m: необъявленный идентификатор
+H:\ОАП\Project6\Project6\FileName.cpp(89,24): error C2065: n: необъявленный идентификатор
+H:\ОАП\Project6\Project6\FileName.cpp(89,16): error C2440: =: невозможно преобразовать "int *" в "int"

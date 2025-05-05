@@ -1,0 +1,15 @@
+﻿  FileName.cpp
+H:\ОАП\Project6\Project6\FileName.cpp(30,12): error C2144: синтаксическая ошибка: перед "int" требуется ")"
+H:\ОАП\Project6\Project6\FileName.cpp(30,5): error C2660: mas_uk: функция не принимает 0 аргументов
+H:\ОАП\Project6\Project6\FileName.cpp(30,12): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+H:\ОАП\Project6\Project6\FileName.cpp(30,16): error C2086: int m: переопределение
+H:\ОАП\Project6\Project6\FileName.cpp(30,19): error C2062: тип "int" не требуется
+H:\ОАП\Project6\Project6\FileName.cpp(30,33): error C2059: синтаксическая ошибка: )
+H:\ОАП\Project6\Project6\FileName.cpp(32,16): error C2065: A: необъявленный идентификатор
+H:\ОАП\Project6\Project6\FileName.cpp(34,16): error C2065: A: необъявленный идентификатор
+H:\ОАП\Project6\Project6\FileName.cpp(44,17): error C2065: A: необъявленный идентификатор
+H:\ОАП\Project6\Project6\FileName.cpp(46,24): error C2065: A: необъявленный идентификатор
+H:\ОАП\Project6\Project6\FileName.cpp(62,18): error C2065: A: необъявленный идентификатор
+H:\ОАП\Project6\Project6\FileName.cpp(64,14): error C2065: A: необъявленный идентификатор
+H:\ОАП\Project6\Project6\FileName.cpp(64,5): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+H:\ОАП\Project6\Project6\FileName.cpp(78,11): error C2082: переопределение формального параметра "A"
