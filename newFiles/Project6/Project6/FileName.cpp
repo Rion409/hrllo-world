@@ -63,6 +63,8 @@ int main()
     }
     delete[] A;
     delete[] B;
+
+    cout << "djhi";
     return 0;
 }
 
